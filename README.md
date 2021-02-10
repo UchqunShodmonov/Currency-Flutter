@@ -1,3 +1,3 @@
 # bitcoin_flutter
 
-<a href=""https://pub.dev/packages/http>http</a>
+<a href="https://pub.dev/packages/http">http</a>
